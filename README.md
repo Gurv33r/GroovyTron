@@ -22,7 +22,7 @@ The script requires this information to be formatted in a specific way inside th
 
 Users should now be able to run the script properly
 
-#Running The Troject
+#Running The Project
 
 Project runs as a normal Python3 file. Users will be prompted to enter char values in order for the script to determine what the user wants to do with it.
 
