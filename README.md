@@ -2,7 +2,7 @@
 
 This project is a Python3 script that serves as a command-line interface for bot accounts on Twitter.
 
-##Info Needed Beforehand
+## Info Needed Beforehand
 
 *Users of this project will need to create a .txt file beforehand in the same directory as this script*, containing their account's: 
    **consumer key
@@ -22,7 +22,7 @@ A guide to finding these keys and tokens can be found here: https://themepacific
 
 Users should now be able to run the script properly
 
-##Running The Project
+## Running The Project
 
 Project runs as a normal Python3 file. Users will be prompted to enter char values in order for the script to determine what the user wants to do with it.
 
